@@ -1,0 +1,11 @@
+body{
+    background-image:url("pfg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    font-size: 30px;
+}
+img{
+    padding-right: 50px;
+}
